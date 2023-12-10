@@ -1,0 +1,25 @@
+
+#container {
+  padding: 10%;
+  height: 701px;
+  margin: 0;
+  background-image: url("img/perpus.jpg");
+  background-size: cover;
+}
+
+#landing-page {
+  margin-top: 12%;
+}
+
+#main-container{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+
+#container-form{
+  width: 10px;
+}
+
